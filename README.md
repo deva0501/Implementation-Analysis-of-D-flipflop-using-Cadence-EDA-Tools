@@ -1,4 +1,4 @@
-# Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
+![WhatsApp Image 2025-03-26 at 13 10 30_b5182e1d](https://github.com/user-attachments/assets/e935794e-edfa-4fce-9237-8e2a7e2e4d0e)# Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
 
 ## Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
@@ -41,21 +41,18 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Circuit Diagram
 
 ### 1. Schematic of D Flip-Flop
-*![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)*
+![WhatsApp Image 2025-03-26 at 13 10 30_4eca1674](https://github.com/user-attachments/assets/8b7c62cc-f988-4613-8ce0-efc59b8fb247)
 
 ### 2. Transient Response Setup
-*
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)*
+![WhatsApp Image 2025-03-26 at 13 10 30_da2bcb10](https://github.com/user-attachments/assets/6be18c07-36e3-400b-9cc0-afb03d7727e7)
 
+### 3. Transient Analysis Output
+![WhatsApp Image 2025-03-26 at 13 10 30_b5182e1d](https://github.com/user-attachments/assets/9d98e598-0ef0-413f-a2c2-6b57cbc91b26)
 
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+### 4. Output
+![WhatsApp Image 2025-03-26 at 13 10 30_a5362a11](https://github.com/user-attachments/assets/139db820-d39d-4b69-923f-1b75d6056779)
 
-## Output
-
-### 1. Transient Analysis Output
-* ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)*
-
-## Results
+### Results
 1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
 2. The simulation results verified the correct sequential logic behavior, ensuring that the Q output correctly follows the D input on the rising edge of the clock.
 3. The waveform analysis demonstrated the expected timing behavior and performance of the D flip-flop circuit.
